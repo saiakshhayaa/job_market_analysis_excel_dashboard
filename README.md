@@ -45,8 +45,6 @@ The objective of this project is to analyze:
 ### Interactive Filters
 - Job Title
 - Country
-- Work Mode
-- Platform
 
 ---
 
