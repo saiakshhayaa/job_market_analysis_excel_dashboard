@@ -14,25 +14,25 @@ To analyze **job market demand, salary trends, work patterns, and skill requirem
 
 ### 📊 Dashboard Overview
 
-![Dashboard Overview](images/Dashboard%20Overview.png)
+![Dashboard Overview](images/dashboard_overview.png)
 
 **Dashboard Overview:** Provides an overall view of job market trends, salary patterns, work modes, and job demand through key KPIs and interactive analysis.
 
 ### 🌍 Regional Analysis
 
-![Regional Analysis](images/Regional%20analysis.png)
+![Regional Analysis](images/regional_analysis.png)
 
 **Regional Analysis:** Compares salary patterns across US and non-US job markets.
 
 ### 🧠 Skill Demand Analysis
 
-![Skill Demand Analysis](images/Skill%20Demand%20Analysis.png)
+![Skill Demand Analysis](images/skill_demand_analysis.png)
 
 **Skill Demand Analysis:** Examines the demand for different skills across data-related job roles.
 
 ### 📈 Skill vs Pay
 
-![Skill vs Pay](images/Skill%20vs%20Pay.png)
+![Skill vs Pay](images/skill_vs_pay.png)
 
 **Skill vs Pay:** Examines the relationship between skills and salary levels.
 
@@ -92,12 +92,13 @@ The dashboard analyzes:
 ├── 📊 Job_Market_Dashboard.xlsx
 │
 ├── 🖼️ images/
-│   ├── Dashboard Overview.png
-│   ├── Regional analysis.png
-│   ├── Salary Comparison.png
-│   ├── Skill Demand Analysis.png
-│   ├── Skill vs Pay.png
-│   ├── Top Paying Skills.png
-│   └── Weekly Job Analysis.png
+│   ├── dashboard_overview.png
+│   ├── regional_analysis.png
+│   ├── salary_comparison.png
+│   ├── skill_demand_analysis.png
+│   ├── skill_vs_pay.png
+│   ├── top_paying_skills.png
+│   └── weekly_job_analysis.png
 │
 └── 📄 README.md
+```
